@@ -1,4 +1,4 @@
-### Private p2p Network -- Distributed PoW Ledger -- POC
+### Private IoT p2p Network -- Distributed storage -- POC
 
 <!--
 **pocpool/pocpool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
